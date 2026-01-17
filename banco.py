@@ -1,5 +1,5 @@
 #Caixa eletrônico
-#Autor: Matheus Ruivo
+#Autor: Matheus Henrique
 print("Bem vindo(A) ao caixa eletrônico.")
 entrada = input("Quer entrar ou sair?")
 if entrada == 'entrar':
@@ -14,4 +14,5 @@ elif entrada == 'sair':
     print("Até a proxima!")
 else:
     print("Você não entrou e nem saiu!! reveja!") 
+
 
